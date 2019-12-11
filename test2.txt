@@ -1,0 +1,7 @@
+def test(A, B):
+  C=A+B
+  return C
+
+A=[1,2,3]
+B=[5,6,7]
+print(test(A,B))
